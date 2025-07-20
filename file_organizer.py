@@ -108,7 +108,7 @@ class FileOrganizer:
 
 
 def main():
-    print("📁 File Organizer - Minimalist Edition")
+    print("File Organizer - Minimalist Edition")
     print("=" * 40)
 
     target = input("Target directory (leave blank for current): ").strip()
