@@ -42,7 +42,7 @@ File Organizer/
 
 1. **Clone or Download** the repository:
    ```bash
-   git clone https://github.com/yourusername/file-organizer.git
+   git clone https://github.com/LIXUN22/file-organizer-automation
    cd file-organizer
 
 
