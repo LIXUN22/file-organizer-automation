@@ -1,22 +1,48 @@
-# 📁 File Organizer - Minimalist Edition
+# 📂 File Organizer
 
-A Python script to automatically organize files in your folder into categorized subfolders based on file extensions.
+A simple yet powerful Python script that automatically organizes files in a folder based on their types (Documents, Images, Videos, Audio, Archives, Code, and Others).
+
+This project helps you keep your folders neat by moving files into categorized subfolders automatically.  
 
 ---
 
-## 🔧 Features
+## ✨ Features
+- Categorizes files into:
+  - **Documents** (PDF, Word, Excel, PowerPoint, etc.)
+  - **Images** (JPG, PNG, SVG, etc.)
+  - **Videos** (MP4, MKV, AVI, etc.)
+  - **Audio** (MP3, WAV, FLAC, etc.)
+  - **Archives** (ZIP, RAR, TAR, etc.)
+  - **Code** (Python, HTML, Java, etc.)
+  - **Others** (Anything else)
+- **Logging:** Keeps a detailed log of all actions in `file_organizer.log`.
+- **Error handling:** Notifies you if any file couldn’t be moved.
+- **Customizable:** Easily add new file types or categories.
+- **Backup friendly:** It does **not** overwrite files with the same name.
 
-- 📄 Categorizes files into: Documents, Images, Videos, Audio, Archives, Code, and Others
-- 🔍 Dry run support – preview actions before making changes
-- 📁 Creates destination folders automatically
-- 📝 Logs all actions to `file_organizer.log`
-- 📊 Prints a summary of operations
 ---
 
-## 🚀 Usage
+## 📁 Project Structure
+File Organizer/
+│
+├── file_organizer.py # Main script
+├── file_organizer.log # Log file (auto-created)
+├── README.md # Project documentation
+└── organized_files/ # Sample folder for testing
 
-1. Place the script in any directory.
-2. Run it using:
+---
 
-```bash
-python file_organizer.py
+## 🛠 Requirements
+- Python 3.6+
+- Standard libraries: `os`, `shutil`, `logging`, `pathlib`, `collections`
+
+---
+
+## 🚀 How to Use
+
+1. **Clone or Download** the repository:
+   ```bash
+   git clone https://github.com/yourusername/file-organizer.git
+   cd file-organizer
+
+
