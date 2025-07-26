@@ -77,3 +77,13 @@ Here are the file types grouped by category:
 ```bash
 python file_organizer.py
 ```
+### Instructions 
+1.
+![photo_1_2025-07-26_17-43-30](https://github.com/user-attachments/assets/71237e83-4ed4-4414-ad57-e4de71554f5a)
+
+2.
+![photo_4_2025-07-26_17-43-30](https://github.com/user-attachments/assets/293977bf-f327-4de6-84eb-ea3585569ce8)
+
+3.
+![photo_5_2025-07-26_17-43-30](https://github.com/user-attachments/assets/efa82c2c-1710-49d2-b56f-66bcb05259e2)
+
