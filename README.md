@@ -13,13 +13,10 @@ For example:
 - `photo.jpg` → `Images/`
 - `script.py` → `Code/`
 
-All actions are logged in a file named `file_organizer.log`.
-
 ---
 
 ## 🖥️ Screenshot: Before & After
 
-> ✨ Add screenshots here to visualize the folder before and after organization.
 
 **Before:**
 
