@@ -75,7 +75,7 @@ Here are the file types grouped by category:
 3. Run the script:
 
 ```bash
-python file_organizer.py
+python main.py
 ```
 ### Instructions 
 1.
